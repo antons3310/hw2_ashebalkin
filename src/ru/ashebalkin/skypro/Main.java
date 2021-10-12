@@ -128,7 +128,7 @@ public class Main {
         b3 = b3 - (b3 / 10) * 10;
         System.out.println("Результат b3: " + b3);
 
-        //альтернативное изменение
+        //альтернативное
         int a4 = 748;
         System.out.println("Результат a3: " + a4);
         int b4 = (a4 % 100 - a4 % 10) / 10;
